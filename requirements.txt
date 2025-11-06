@@ -1,0 +1,7 @@
+langchain==1.0.3
+langgraph==1.0.2
+pinecone==7.3.0
+langchain-pinecone==0.0.3
+python-dotenv==1.2.1
+langchain-google-genai==3.0.1
+streamlit==1.38.0
